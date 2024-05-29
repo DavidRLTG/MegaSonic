@@ -1,4 +1,4 @@
-![MegaSonicFull](https://github.com/DavidRLTG/MegaSonic/assets/87834635/31e2264d-8ced-4f35-9af7-709c5ad8803c)
+![MegaSonicFullDetailed](https://github.com/DavidRLTG/MegaSonic/assets/87834635/7ab13d14-c367-4164-9bc3-6c50b68c9244)
 
 # The music player that tries to be different.
 MegaSonic is a Music Player for Linux (and possibly Windows), although it is currently in concept stage, with it having no code at the moment, just concept images.
