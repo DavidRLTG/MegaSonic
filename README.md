@@ -6,3 +6,6 @@ MegaSonic is a Music Player for Linux (and possibly Windows), although it is cur
 This project may come to fruition in the future, if I can gather some contributors.
 
 At this time, This repository is just a placeholder.
+
+# Concept Image:
+![Screenshot_2024-08-20_23-05-29](https://github.com/user-attachments/assets/59b3a7dd-47fa-42cd-8817-e66ab00a98fe)
